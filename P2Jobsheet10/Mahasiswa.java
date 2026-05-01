@@ -17,5 +17,4 @@ public class Mahasiswa{
     public void tampilkanData() {
         System.out.println(nim + " - " + nama + " - " + prodi + " - " + kelas);
     }
-    
 }
